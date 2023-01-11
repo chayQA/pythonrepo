@@ -8,5 +8,3 @@ ooo
 
 jjj
 
-chai
-puli
